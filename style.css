@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.navbar-default {
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.navbar-default .navbar-brand {
+    color: white !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ddd;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-collapse {
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav.visible-xs {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+}
+
+.navbar-default .navbar-nav.visible-xs > li > a {
+    color: #337ab7 !important;
+    text-align: center;
+}
+
+h1.text-center {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.container .row section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.container .row section h2 {
+    text-align: center;
+    color: #555;
+    margin-top: 0;
+}
+
+.container .row section p {
+    color: #777;
+}
+
+.container .row section a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.container .row section a:hover {
+    text-decoration: underline;
+}
